@@ -201,7 +201,7 @@ function iniciarSistema() {
         rodando = false; // Define a flag como false para sair do loop 'while'.
         break;
       default:
-        console.log('\n Opção inválida. Por favor, escolha um número entre 1 e 4.');
+        console.log('\n Opção inválida. Por favor, escolha um número entre 1 e 5.');
         break;
     }
   }

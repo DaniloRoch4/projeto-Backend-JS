@@ -181,7 +181,7 @@ function iniciarSistema() {
     console.log('---------------------------------------------');
 
     // O prompt é síncrono, armazena a resposta em 'opcao' antes de continuar.
-    const opcao = prompt('Escolha uma opção (1-4): ').trim();
+    const opcao = prompt('Escolha uma opção (1-5): ').trim();
 
     switch (opcao) {
       case '1':

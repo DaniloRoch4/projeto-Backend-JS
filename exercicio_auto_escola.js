@@ -178,7 +178,7 @@ function iniciarSistema() {
     console.log('3. Consultar Progresso do Aluno');
     console.log('4. Listar Todos os Alunos Cadastrados');
     console.log('5. Sair');
-    console.log('---------------------------------------------');
+    console.log('---------------------------------------------');0
 
     // O prompt é síncrono, armazena a resposta em 'opcao' antes de continuar.
     const opcao = prompt('Escolha uma opção (1-5): ').trim();
